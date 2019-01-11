@@ -1,10 +1,25 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://turner-industries.visualstudio.com/TurnerTablet/_git/TurnerTablet.Mobile" />
+          <option name="serverUri" value="https://turner-industries.visualstudio.com" />
+          <option name="userId" value="cc89f2da-52d8-6c45-899f-4ef1757dc677" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d8e765c3-12ef-4dbe-a0d8-954dc4dc954c&quot;,&quot;name&quot;:&quot;turner-industries&quot;,&quot;url&quot;:&quot;https://turner-industries.visualstudio.com/_apis/projectCollections/d8e765c3-12ef-4dbe-a0d8-954dc4dc954c&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;75b752f1-3cb1-4ad7-8208-d746c2e064a4&quot;,&quot;name&quot;:&quot;TurnerTablet&quot;,&quot;revision&quot;:545,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://turner-industries.visualstudio.com/_apis/projects/75b752f1-3cb1-4ad7-8208-d746c2e064a4&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;b8f97a3f-4f84-400d-abd7-94f28ae78a6b&quot;,&quot;name&quot;:&quot;TurnerTablet.Mobile&quot;,&quot;remoteUrl&quot;:&quot;https://turner-industries.visualstudio.com/TurnerTablet/_git/TurnerTablet.Mobile&quot;,&quot;url&quot;:&quot;https://turner-industries.visualstudio.com/_apis/git/repositories/b8f97a3f-4f84-400d-abd7-94f28ae78a6b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;75b752f1-3cb1-4ad7-8208-d746c2e064a4&quot;,&quot;name&quot;:&quot;TurnerTablet&quot;,&quot;revision&quot;:545,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://turner-industries.visualstudio.com/_apis/projects/75b752f1-3cb1-4ad7-8208-d746c2e064a4&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//turner-industries.visualstudio.com/turnertablet/_git/turnertablet.mobile" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
