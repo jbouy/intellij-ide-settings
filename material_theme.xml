@@ -1,9 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
-    <option name="userId" value="4fd4dc36:1683d189904:-8000" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="a52a5e4:1684c8c5f39:-8000" />
     <option name="version" value="3.3.0" />
   </component>
 </application>
