@@ -1,12 +1,19 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="a52a5e4:1684c8c5f39:-8000" />
-    <option name="version" value="3.3.0" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
