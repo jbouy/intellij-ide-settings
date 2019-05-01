@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\GetTimesheetConfigurationRequest.cs'" />
-    <option name="defaultScopeName" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\GetTimesheetConfigurationRequest.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\GetTimesheetConfigurationRequest.cs'" />
+    <option name="customScope" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\Profiles.cs'" />
+    <option name="defaultScopeName" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\Profiles.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\Profiles.cs'" />
   </component>
 </application>
