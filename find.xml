@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TurnerTablet.Core.Timesheets\Data\DefaultNoteLUTSeeder.cs'" />
-    <option name="defaultScopeName" value="File '...\TurnerTablet.Core.Timesheets\Data\DefaultNoteLUTSeeder.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Core.Timesheets\Data\DefaultNoteLUTSeeder.cs'" />
+    <option name="customScope" value="File '...\TurnerTablet.Core.Timesheets\Features\SiteConfigurations\DefaultNoteLUT.cs'" />
+    <option name="defaultScopeName" value="File '...\TurnerTablet.Core.Timesheets\Features\SiteConfigurations\DefaultNoteLUT.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Core.Timesheets\Features\SiteConfigurations\DefaultNoteLUT.cs'" />
   </component>
 </application>
