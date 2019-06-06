@@ -17,6 +17,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TurnerTablet.Api'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'TurnerTablet.Api'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="TODO">
         <Item>
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
