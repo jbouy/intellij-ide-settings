@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Execute</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="NuGet">
         <Item>
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
@@ -127,6 +135,14 @@
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'TurnerTablet.Api'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Submit</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
