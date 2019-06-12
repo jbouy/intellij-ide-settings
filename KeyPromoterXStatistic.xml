@@ -38,7 +38,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+F5'</ShortCut>
           <Description>Debug 'TurnerTablet.Api'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TurnerTablet.Api: IIS Express'">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12'</ShortCut>
           <Description>Declaration</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Explorer</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -150,7 +150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'TurnerTablet.Api'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TurnerTablet.Api: IIS Express'">
