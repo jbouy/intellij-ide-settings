@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TurnerTablet.Tests.Units.Common\Features\Devices\Validators\SignInDeviceRequestValidatorTests.cs'" />
-    <option name="defaultScopeName" value="File '...\TurnerTablet.Tests.Units.Common\Features\Devices\Validators\SignInDeviceRequestValidatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Tests.Units.Common\Features\Devices\Validators\SignInDeviceRequestValidatorTests.cs'" />
+    <option name="customScope" value="File '...\TurnerTablet.Tests.Units.Common\Features\Devices\Handlers\SignInDeviceRequestHandlerTests.cs'" />
+    <option name="defaultScopeName" value="File '...\TurnerTablet.Tests.Units.Common\Features\Devices\Handlers\SignInDeviceRequestHandlerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Tests.Units.Common\Features\Devices\Handlers\SignInDeviceRequestHandlerTests.cs'" />
   </component>
 </application>
