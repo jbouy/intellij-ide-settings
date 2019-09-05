@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'TurnerTablet.Mobile.Core'" />
-    <option name="defaultScopeName" value="Project 'TurnerTablet.Mobile.Core'" />
-    <option name="SEARCH_SCOPE" value="Project 'TurnerTablet.Mobile.Core'" />
+    <option name="customScope" value="File '.../TurnerTablet.Mobile.Core/Extensions/ResponseExtensions.cs'" />
+    <option name="defaultScopeName" value="File '.../TurnerTablet.Mobile.Core/Extensions/ResponseExtensions.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../TurnerTablet.Mobile.Core/Extensions/ResponseExtensions.cs'" />
   </component>
 </application>
