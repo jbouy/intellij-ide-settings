@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../TurnerTablet.Mobile.Core/Features/Sync/SyncManager.cs'" />
-    <option name="defaultScopeName" value="File '.../TurnerTablet.Mobile.Core/Features/Sync/SyncManager.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../TurnerTablet.Mobile.Core/Features/Sync/SyncManager.cs'" />
+    <option name="customScope" value="File '.../TurnerTablet.Mobile.Core/Features/Security/DeviceAuthorizer.cs'" />
+    <option name="defaultScopeName" value="File '.../TurnerTablet.Mobile.Core/Features/Security/DeviceAuthorizer.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../TurnerTablet.Mobile.Core/Features/Security/DeviceAuthorizer.cs'" />
   </component>
 </application>
