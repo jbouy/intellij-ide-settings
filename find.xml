@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../TurnerTablet.Core.Forms/Features/Snapshots/SnapshotToEntitiesExtensions.cs'" />
-    <option name="defaultScopeName" value="File '.../TurnerTablet.Core.Forms/Features/Snapshots/SnapshotToEntitiesExtensions.cs'" />
+    <option name="customScope" value="Project 'TurnerTablet.Mobile.iOS.Scaffolding'" />
+    <option name="defaultScopeName" value="Project 'TurnerTablet.Mobile.iOS.Scaffolding'" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../TurnerTablet.Core.Forms/Features/Snapshots/SnapshotToEntitiesExtensions.cs'" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'TurnerTablet.Mobile.iOS.Scaffolding'" />
   </component>
 </application>
