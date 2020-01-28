@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\PdfExportHelper.cs'" />
-    <option name="defaultScopeName" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\PdfExportHelper.cs'" />
+    <option name="customScope" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\Validators.cs'" />
+    <option name="defaultScopeName" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\Validators.cs'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\PdfExportHelper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TurnerTablet.Core.Timesheets\Features\Timesheets\Validators.cs'" />
   </component>
 </application>
