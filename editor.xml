@@ -13,8 +13,6 @@
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;QUESTION)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;ANNOTATION)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
