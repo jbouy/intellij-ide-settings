@@ -12,7 +12,5 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
   </component>
 </application>
