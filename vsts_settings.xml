@@ -4,14 +4,6 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://turner-industries.visualstudio.com" />
-          <option name="serverUri" value="https://turner-industries.visualstudio.com" />
-          <option name="userId" value="cc89f2da-52d8-6c45-899f-4ef1757dc677" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://turner-industries.visualstudio.com/TurnerTablet/_git/TurnerTablet.Mobile" />
           <option name="serverUri" value="https://turner-industries.visualstudio.com" />
           <option name="userId" value="cc89f2da-52d8-6c45-899f-4ef1757dc677" />
