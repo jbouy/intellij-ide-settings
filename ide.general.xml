@@ -13,6 +13,6 @@
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
