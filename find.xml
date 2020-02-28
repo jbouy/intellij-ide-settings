@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected Files And Folders" />
-    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="customScope" value="File '.../TurnerTablet.Mobile.iOS.Common/Controls/DateTimeInputPopupController.cs'" />
+    <option name="defaultScopeName" value="File '.../TurnerTablet.Mobile.iOS.Common/Controls/DateTimeInputPopupController.cs'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="File '.../TurnerTablet.Mobile.iOS.Common/Controls/DateTimeInputPopupController.cs'" />
   </component>
 </application>
