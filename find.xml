@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="File '.../TurnerTablet.Mobile.Core.Timesheets/Features/Timesheets/SubmitTimesheetRequest.cs'" />
+    <option name="defaultScopeName" value="File '.../TurnerTablet.Mobile.Core.Timesheets/Features/Timesheets/SubmitTimesheetRequest.cs'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="File '.../TurnerTablet.Mobile.Core.Timesheets/Features/Timesheets/SubmitTimesheetRequest.cs'" />
   </component>
 </application>
